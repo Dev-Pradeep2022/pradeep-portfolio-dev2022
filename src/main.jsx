@@ -40,7 +40,7 @@ const LinkedInIcon = ({ size = 16 }) => (
 const profile = {
   name: 'Pradeep Kumar Bal',
   role: 'Software Engineer',
-  email: 'balpradeep5@gmail.com',
+  email: 'pradeep.dev.java2022@gmail.com',
   location: 'India',
   photo: '/profile.png',
   summary:
@@ -556,7 +556,7 @@ function App() {
 
                 <a
                   className="btn ghost"
-                  href="/resume.pdf"
+                  href="/Pradeep_Kumar_Bal_Resume.docx"
                   download
                 >
                   📄 Download Resume
@@ -573,7 +573,7 @@ function App() {
                 </a>
 
                 <a
-                  href="https://github.com/"
+                  href="https://github.com/Dev-Pradeep2022"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -1299,7 +1299,7 @@ function App() {
                 </button>
 
                 <a
-                  href="https://github.com/"
+                  href="https://github.com/Dev-Pradeep2022"
                   target="_blank"
                   rel="noreferrer"
                 >
